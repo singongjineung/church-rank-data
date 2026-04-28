@@ -119,7 +119,7 @@
       "name": "마가의다락방교회",
       "channelId": "UCP2p32Gz20PLa1-5itufwqA",
       "subscribers": 136000,
-      "views": 30898219,
+      "views": 30911215,
       "conversionRate": 4.4
     },
     {
@@ -132,19 +132,19 @@
     },
     {
       "rank": 17,
-      "name": "연세중앙교회 Yonsei Central Church",
-      "channelId": "UCxpCUGw1ESBlYWrI57RqoGg",
-      "subscribers": 133000,
-      "views": 87251548,
-      "conversionRate": 1.52
-    },
-    {
-      "rank": 18,
       "name": "만나 미디어교회",
       "channelId": "UC0EweXMQqvbiTPYLXY0WFzA",
       "subscribers": 133000,
       "views": 45795853,
       "conversionRate": 2.9
+    },
+    {
+      "rank": 18,
+      "name": "연세중앙교회 Yonsei Central Church",
+      "channelId": "UCxpCUGw1ESBlYWrI57RqoGg",
+      "subscribers": 133000,
+      "views": 87251548,
+      "conversionRate": 1.52
     },
     {
       "rank": 19,
@@ -327,7 +327,7 @@
       "name": "명성교회",
       "channelId": "UCnCvSPesoxJJgVtWxHuVEPQ",
       "subscribers": 42300,
-      "views": 19992798,
+      "views": 19995072,
       "conversionRate": 2.12
     },
     {
@@ -359,7 +359,7 @@
       "name": "홍융희",
       "channelId": "UC3VReLD7WkrzaZjpvGaCxdQ",
       "subscribers": 37600,
-      "views": 20889925,
+      "views": 20898735,
       "conversionRate": 1.8
     },
     {
@@ -423,7 +423,7 @@
       "name": "은평제일교회",
       "channelId": "UCA8etK81vjiCBn63UYABRpg",
       "subscribers": 28100,
-      "views": 6472483,
+      "views": 6472467,
       "conversionRate": 4.34
     },
     {
@@ -444,19 +444,19 @@
     },
     {
       "rank": 56,
-      "name": "은혜와진리교회- 조용목 목사 전용채널",
-      "channelId": "UCKEiqXHJlap3vKkAyaVgqsg",
-      "subscribers": 26500,
-      "views": 13446258,
-      "conversionRate": 1.97
-    },
-    {
-      "rank": 57,
       "name": "호산나교회 공식 유튜브 채널",
       "channelId": "UCjms0bjEtU_me52S5Y-su_w",
       "subscribers": 26500,
       "views": 6543241,
       "conversionRate": 4.05
+    },
+    {
+      "rank": 57,
+      "name": "은혜와진리교회- 조용목 목사 전용채널",
+      "channelId": "UCKEiqXHJlap3vKkAyaVgqsg",
+      "subscribers": 26500,
+      "views": 13446258,
+      "conversionRate": 1.97
     },
     {
       "rank": 58,
@@ -519,7 +519,7 @@
       "name": "할렐루야교회Hallelujah Community Church",
       "channelId": "UCjHPrYoxZnPlYohdMQYEL7A",
       "subscribers": 21800,
-      "views": 9582654,
+      "views": 9582850,
       "conversionRate": 2.27
     },
     {
@@ -559,7 +559,7 @@
       "name": "Joyful Church",
       "channelId": "UC5PzG8kd8lyo7BbHFLxAbig",
       "subscribers": 19900,
-      "views": 3180417,
+      "views": 3180729,
       "conversionRate": 6.26
     },
     {
@@ -572,19 +572,19 @@
     },
     {
       "rank": 72,
-      "name": "안호성 목사의 설교 TV",
-      "channelId": "UCewDv6NIq_4aJ8F9PdY1HDA",
-      "subscribers": 19700,
-      "views": 6062220,
-      "conversionRate": 3.25
-    },
-    {
-      "rank": 73,
       "name": "대구동신교회",
       "channelId": "UCuWebi6hqVRFsvb6UmWr9Qg",
       "subscribers": 19700,
       "views": 9011303,
       "conversionRate": 2.19
+    },
+    {
+      "rank": 73,
+      "name": "안호성 목사의 설교 TV",
+      "channelId": "UCewDv6NIq_4aJ8F9PdY1HDA",
+      "subscribers": 19700,
+      "views": 6062220,
+      "conversionRate": 3.25
     },
     {
       "rank": 74,
@@ -671,7 +671,7 @@
       "name": "남포교회",
       "channelId": "UCMTIup8Qw7JmPbPwUnb32sw",
       "subscribers": 15000,
-      "views": 3064388,
+      "views": 3064623,
       "conversionRate": 4.89
     },
     {
@@ -692,14 +692,6 @@
     },
     {
       "rank": 87,
-      "name": "높은뜻푸른교회",
-      "channelId": "UCaQGk2guxAG3VxsNbv77w2Q",
-      "subscribers": 14300,
-      "views": 2008773,
-      "conversionRate": 7.12
-    },
-    {
-      "rank": 88,
       "name": "DREAMCHURCH",
       "channelId": "UCm5j0XT6NKD8-GHSDhrWOQw",
       "subscribers": 14300,
@@ -707,11 +699,19 @@
       "conversionRate": 3.18
     },
     {
+      "rank": 88,
+      "name": "높은뜻푸른교회",
+      "channelId": "UCaQGk2guxAG3VxsNbv77w2Q",
+      "subscribers": 14300,
+      "views": 2008773,
+      "conversionRate": 7.12
+    },
+    {
       "rank": 89,
       "name": "하늘비전교회",
       "channelId": "UCutZ0BY-hJHq6bKV2a6SuqQ",
       "subscribers": 14200,
-      "views": 7417520,
+      "views": 7417330,
       "conversionRate": 1.91
     },
     {
@@ -740,19 +740,19 @@
     },
     {
       "rank": 93,
-      "name": "새로남교회",
-      "channelId": "UCiTVak4zXwou9IDXacjFl7w",
-      "subscribers": 13400,
-      "views": 7661213,
-      "conversionRate": 1.75
-    },
-    {
-      "rank": 94,
       "name": "새가나안교회(NCC)",
       "channelId": "UCGLaz30SXnxXhYR8wrTpbXg",
       "subscribers": 13400,
       "views": 6935128,
       "conversionRate": 1.93
+    },
+    {
+      "rank": 94,
+      "name": "새로남교회",
+      "channelId": "UCiTVak4zXwou9IDXacjFl7w",
+      "subscribers": 13400,
+      "views": 7661213,
+      "conversionRate": 1.75
     },
     {
       "rank": 95,
@@ -791,8 +791,8 @@
       "name": "은평성결교회",
       "channelId": "UChBawgoLq22_7q8YrYGUzUQ",
       "subscribers": 12600,
-      "views": 1373855,
-      "conversionRate": 9.17
+      "views": 1375830,
+      "conversionRate": 9.16
     },
     {
       "rank": 100,
