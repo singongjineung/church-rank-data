@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23",
+  "updated": "2026-06-24",
   "count": 100,
   "churches": [
     {
@@ -14,7 +14,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 1198533,
+      "viewsGrowth7d": 1070173,
       "conversionRateChange7d": -0.01
     },
     {
@@ -29,7 +29,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 229791,
+      "viewsGrowth7d": 204756,
       "conversionRateChange7d": 0.0
     },
     {
@@ -44,7 +44,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 1000,
-      "viewsGrowth7d": 163184,
+      "viewsGrowth7d": 157157,
       "conversionRateChange7d": 0.0
     },
     {
@@ -59,7 +59,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 227569,
+      "viewsGrowth7d": 184714,
       "conversionRateChange7d": 0.0
     },
     {
@@ -74,8 +74,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 636431,
-      "conversionRateChange7d": -0.02
+      "viewsGrowth7d": 505158,
+      "conversionRateChange7d": -0.01
     },
     {
       "rank": 6,
@@ -89,7 +89,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 128698,
+      "viewsGrowth7d": 110346,
       "conversionRateChange7d": 0.0
     },
     {
@@ -101,10 +101,10 @@
       "conversionRate": 1.62,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": -1,
+      "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 308865,
+      "viewsGrowth7d": 259797,
       "conversionRateChange7d": -0.01
     },
     {
@@ -119,7 +119,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 251063,
+      "viewsGrowth7d": 209115,
       "conversionRateChange7d": 0.0
     },
     {
@@ -131,10 +131,10 @@
       "conversionRate": 1.63,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": 2,
+      "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 1000,
-      "viewsGrowth7d": 198478,
+      "viewsGrowth7d": 179871,
       "conversionRateChange7d": 0.01
     },
     {
@@ -149,22 +149,22 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 90586,
-      "conversionRateChange7d": -0.01
+      "viewsGrowth7d": 78960,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 11,
       "name": "코뿔소TV 서울김포영광교회 (RhinoTV)",
       "channelId": "UC2Brddysh5qpf3zD2wrTbRg",
-      "subscribers": 182000,
+      "subscribers": 183000,
       "views": 119296282,
       "conversionRate": 1.53,
       "rankChange": 0,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
-      "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 420581,
+      "subscribersGrowth7d": 1000,
+      "viewsGrowth7d": 393736,
       "conversionRateChange7d": 0.0
     },
     {
@@ -179,7 +179,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 225933,
+      "viewsGrowth7d": 194668,
       "conversionRateChange7d": 0.0
     },
     {
@@ -190,11 +190,11 @@
       "views": 17555091,
       "conversionRate": 9.57,
       "rankChange": 0,
-      "rankChangeViews": 1,
+      "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 1000,
-      "viewsGrowth7d": 308605,
+      "viewsGrowth7d": 298138,
       "conversionRateChange7d": -0.11
     },
     {
@@ -206,41 +206,41 @@
       "conversionRate": 3.82,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": -1,
-      "isNew": false,
-      "subscribersGrowth7d": 1000,
-      "viewsGrowth7d": 596988,
-      "conversionRateChange7d": -0.04
-    },
-    {
-      "rank": 15,
-      "name": "마가의다락방교회",
-      "channelId": "UCP2p32Gz20PLa1-5itufwqA",
-      "subscribers": 136000,
-      "views": 31581641,
-      "conversionRate": 4.31,
-      "rankChange": 1,
-      "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 70976,
-      "conversionRateChange7d": -0.01
+      "viewsGrowth7d": 420602,
+      "conversionRateChange7d": -0.05
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "온누리교회",
       "channelId": "UC-JbwIkZI1f3Bings3VO3Sg",
       "subscribers": 136000,
       "views": 52421853,
       "conversionRate": 2.59,
+      "rankChange": 1,
+      "rankChangeViews": 0,
+      "rankChangeConversion": 0,
+      "isNew": false,
+      "subscribersGrowth7d": 0,
+      "viewsGrowth7d": 88516,
+      "conversionRateChange7d": -0.01
+    },
+    {
+      "rank": 16,
+      "name": "마가의다락방교회",
+      "channelId": "UCP2p32Gz20PLa1-5itufwqA",
+      "subscribers": 136000,
+      "views": 31581641,
+      "conversionRate": 4.31,
       "rankChange": -1,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 107225,
-      "conversionRateChange7d": -0.01
+      "viewsGrowth7d": 63356,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 17,
@@ -249,12 +249,12 @@
       "subscribers": 134000,
       "views": 46880975,
       "conversionRate": 2.86,
-      "rankChange": 1,
+      "rankChange": 0,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 179555,
+      "viewsGrowth7d": 146243,
       "conversionRateChange7d": -0.01
     },
     {
@@ -264,12 +264,12 @@
       "subscribers": 134000,
       "views": 88161989,
       "conversionRate": 1.52,
-      "rankChange": -1,
+      "rankChange": 0,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 114758,
+      "viewsGrowth7d": 98423,
       "conversionRateChange7d": 0.0
     },
     {
@@ -284,8 +284,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 129370,
-      "conversionRateChange7d": -0.03
+      "viewsGrowth7d": 111067,
+      "conversionRateChange7d": -0.02
     },
     {
       "rank": 20,
@@ -299,7 +299,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 63343,
+      "viewsGrowth7d": 47209,
       "conversionRateChange7d": 0.0
     },
     {
@@ -311,10 +311,10 @@
       "conversionRate": 3.61,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": -1,
+      "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 71869,
+      "viewsGrowth7d": 64529,
       "conversionRateChange7d": -0.01
     },
     {
@@ -329,7 +329,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 15804,
+      "viewsGrowth7d": 12463,
       "conversionRateChange7d": -0.02
     },
     {
@@ -344,8 +344,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 62771,
-      "conversionRateChange7d": -0.01
+      "viewsGrowth7d": 58856,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 24,
@@ -359,7 +359,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 131230,
+      "viewsGrowth7d": 110223,
       "conversionRateChange7d": -0.01
     },
     {
@@ -371,10 +371,10 @@
       "conversionRate": 1.63,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": -1,
+      "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 175471,
+      "viewsGrowth7d": 156314,
       "conversionRateChange7d": 0.0
     },
     {
@@ -389,7 +389,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 85618,
+      "viewsGrowth7d": 69939,
       "conversionRateChange7d": 0.0
     },
     {
@@ -404,7 +404,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 60362,
+      "viewsGrowth7d": 52027,
       "conversionRateChange7d": -0.01
     },
     {
@@ -416,10 +416,10 @@
       "conversionRate": 3.83,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": 1,
+      "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 34545,
+      "viewsGrowth7d": 29824,
       "conversionRateChange7d": 0.0
     },
     {
@@ -434,8 +434,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 97973,
-      "conversionRateChange7d": -0.01
+      "viewsGrowth7d": 80052,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 30,
@@ -449,23 +449,23 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 14493,
-      "conversionRateChange7d": -0.01
+      "viewsGrowth7d": 12803,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 31,
       "name": "한소망교회",
       "channelId": "UCCUiwnIMfFpig9Ui0u4y3Rg",
-      "subscribers": 62700,
+      "subscribers": 62800,
       "views": 10289854,
-      "conversionRate": 6.09,
+      "conversionRate": 6.1,
       "rankChange": 0,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
-      "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 36013,
-      "conversionRateChange7d": -0.02
+      "subscribersGrowth7d": 200,
+      "viewsGrowth7d": 32444,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 32,
@@ -479,7 +479,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": -100,
-      "viewsGrowth7d": 12922,
+      "viewsGrowth7d": 12022,
       "conversionRateChange7d": -0.02
     },
     {
@@ -494,7 +494,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 44542,
+      "viewsGrowth7d": 37803,
       "conversionRateChange7d": -0.01
     },
     {
@@ -509,7 +509,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 32298,
+      "viewsGrowth7d": 26577,
       "conversionRateChange7d": 0.0
     },
     {
@@ -524,7 +524,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 41175,
+      "viewsGrowth7d": 37835,
       "conversionRateChange7d": -0.01
     },
     {
@@ -539,7 +539,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 4405,
+      "viewsGrowth7d": 3825,
       "conversionRateChange7d": 0.0
     },
     {
@@ -554,7 +554,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 200,
-      "viewsGrowth7d": 117203,
+      "viewsGrowth7d": 100054,
       "conversionRateChange7d": 0.0
     },
     {
@@ -569,8 +569,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 34160,
-      "conversionRateChange7d": -0.01
+      "viewsGrowth7d": 28073,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 39,
@@ -584,8 +584,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 14863,
-      "conversionRateChange7d": -0.01
+      "viewsGrowth7d": 13311,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 40,
@@ -599,23 +599,23 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 143955,
+      "viewsGrowth7d": 122974,
       "conversionRateChange7d": 0.0
     },
     {
       "rank": 41,
       "name": "명성교회",
       "channelId": "UCnCvSPesoxJJgVtWxHuVEPQ",
-      "subscribers": 42800,
+      "subscribers": 42900,
       "views": 20634408,
-      "conversionRate": 2.07,
+      "conversionRate": 2.08,
       "rankChange": 0,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
-      "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 56639,
-      "conversionRateChange7d": -0.01
+      "subscribersGrowth7d": 100,
+      "viewsGrowth7d": 47213,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 42,
@@ -629,7 +629,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 35041,
+      "viewsGrowth7d": 31583,
       "conversionRateChange7d": 0.0
     },
     {
@@ -644,7 +644,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 12080,
+      "viewsGrowth7d": 10956,
       "conversionRateChange7d": -0.01
     },
     {
@@ -659,7 +659,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 10629,
+      "viewsGrowth7d": 9041,
       "conversionRateChange7d": -0.01
     },
     {
@@ -674,7 +674,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 39799,
+      "viewsGrowth7d": 33734,
       "conversionRateChange7d": 0.0
     },
     {
@@ -689,7 +689,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 14197,
+      "viewsGrowth7d": 12628,
       "conversionRateChange7d": 0.0
     },
     {
@@ -704,7 +704,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 12747,
+      "viewsGrowth7d": 11832,
       "conversionRateChange7d": 0.0
     },
     {
@@ -719,7 +719,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 15854,
+      "viewsGrowth7d": 12388,
       "conversionRateChange7d": -0.01
     },
     {
@@ -734,7 +734,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": -3292,
+      "viewsGrowth7d": -6282,
       "conversionRateChange7d": 0.0
     },
     {
@@ -749,8 +749,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 41959,
-      "conversionRateChange7d": -0.06
+      "viewsGrowth7d": 35250,
+      "conversionRateChange7d": -0.05
     },
     {
       "rank": 51,
@@ -764,7 +764,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 8978,
+      "viewsGrowth7d": 7512,
       "conversionRateChange7d": -0.01
     },
     {
@@ -779,7 +779,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 9689,
+      "viewsGrowth7d": 8771,
       "conversionRateChange7d": 0.0
     },
     {
@@ -791,10 +791,10 @@
       "conversionRate": 4.33,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": 1,
+      "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 3567,
+      "viewsGrowth7d": 3223,
       "conversionRateChange7d": 0.0
     },
     {
@@ -809,7 +809,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 31010,
+      "viewsGrowth7d": 25359,
       "conversionRateChange7d": 0.0
     },
     {
@@ -824,7 +824,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 24111,
+      "viewsGrowth7d": 22874,
       "conversionRateChange7d": 0.0
     },
     {
@@ -839,8 +839,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": -119,
-      "conversionRateChange7d": 0.01
+      "viewsGrowth7d": -380,
+      "conversionRateChange7d": 0.03
     },
     {
       "rank": 57,
@@ -854,14 +854,14 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 21917,
+      "viewsGrowth7d": 18793,
       "conversionRateChange7d": -0.02
     },
     {
       "rank": 58,
       "name": "백송교회백송영성수련원",
       "channelId": "UC6KqENdFZCP3amvDQSvAF2w",
-      "subscribers": 26200,
+      "subscribers": 26300,
       "views": 23690323,
       "conversionRate": 1.11,
       "rankChange": 0,
@@ -869,8 +869,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 500,
-      "viewsGrowth7d": 637566,
-      "conversionRateChange7d": 0.0
+      "viewsGrowth7d": 553038,
+      "conversionRateChange7d": -0.01
     },
     {
       "rank": 59,
@@ -884,7 +884,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 34845,
+      "viewsGrowth7d": 30813,
       "conversionRateChange7d": -0.01
     },
     {
@@ -899,7 +899,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 4896,
+      "viewsGrowth7d": 4519,
       "conversionRateChange7d": 0.0
     },
     {
@@ -914,7 +914,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 35081,
+      "viewsGrowth7d": 29966,
       "conversionRateChange7d": 0.0
     },
     {
@@ -929,7 +929,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 4294,
+      "viewsGrowth7d": 3753,
       "conversionRateChange7d": -0.01
     },
     {
@@ -944,7 +944,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 21947,
+      "viewsGrowth7d": 23871,
       "conversionRateChange7d": 0.0
     },
     {
@@ -955,11 +955,11 @@
       "views": 17554540,
       "conversionRate": 1.33,
       "rankChange": 0,
-      "rankChangeViews": -1,
+      "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 29351,
+      "viewsGrowth7d": 24232,
       "conversionRateChange7d": 0.0
     },
     {
@@ -974,7 +974,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 25349,
+      "viewsGrowth7d": 21533,
       "conversionRateChange7d": -0.01
     },
     {
@@ -989,7 +989,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 35320,
+      "viewsGrowth7d": 30973,
       "conversionRateChange7d": 0.0
     },
     {
@@ -1004,7 +1004,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 21518,
+      "viewsGrowth7d": 19304,
       "conversionRateChange7d": 0.0
     },
     {
@@ -1019,7 +1019,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 9788,
+      "viewsGrowth7d": 8535,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1034,7 +1034,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 38920,
+      "viewsGrowth7d": 42713,
       "conversionRateChange7d": 0.0
     },
     {
@@ -1049,7 +1049,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 41585,
+      "viewsGrowth7d": 33269,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1061,10 +1061,10 @@
       "conversionRate": 3.62,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": 1,
+      "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 26642,
+      "viewsGrowth7d": 24832,
       "conversionRateChange7d": -0.02
     },
     {
@@ -1078,9 +1078,9 @@
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
-      "subscribersGrowth7d": 100,
-      "viewsGrowth7d": 12594,
-      "conversionRateChange7d": 0.01
+      "subscribersGrowth7d": 0,
+      "viewsGrowth7d": 9957,
+      "conversionRateChange7d": -0.02
     },
     {
       "rank": 73,
@@ -1094,38 +1094,38 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 30943,
+      "viewsGrowth7d": 27775,
       "conversionRateChange7d": 0.0
     },
     {
       "rank": 74,
-      "name": "열린교회",
-      "channelId": "UCpjCseYRqBXGLdOXWw8K1pg",
-      "subscribers": 19800,
-      "views": 743376,
-      "conversionRate": 26.64,
-      "rankChange": 1,
-      "rankChangeViews": 0,
-      "rankChangeConversion": 0,
-      "isNew": false,
-      "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 4780,
-      "conversionRateChange7d": -0.17
-    },
-    {
-      "rank": 75,
       "name": "안호성 목사의 설교 TV",
       "channelId": "UCewDv6NIq_4aJ8F9PdY1HDA",
       "subscribers": 19800,
       "views": 6151461,
       "conversionRate": 3.22,
+      "rankChange": 1,
+      "rankChangeViews": 0,
+      "rankChangeConversion": 0,
+      "isNew": false,
+      "subscribersGrowth7d": 0,
+      "viewsGrowth7d": 6268,
+      "conversionRateChange7d": 0.0
+    },
+    {
+      "rank": 75,
+      "name": "열린교회",
+      "channelId": "UCpjCseYRqBXGLdOXWw8K1pg",
+      "subscribers": 19800,
+      "views": 743376,
+      "conversionRate": 26.64,
       "rankChange": -1,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 7655,
-      "conversionRateChange7d": 0.0
+      "viewsGrowth7d": 4236,
+      "conversionRateChange7d": -0.15
     },
     {
       "rank": 76,
@@ -1139,8 +1139,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 63118,
-      "conversionRateChange7d": -0.07
+      "viewsGrowth7d": 53939,
+      "conversionRateChange7d": -0.06
     },
     {
       "rank": 77,
@@ -1154,7 +1154,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 7932,
+      "viewsGrowth7d": 7217,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1169,7 +1169,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 26034,
+      "viewsGrowth7d": 22522,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1181,10 +1181,10 @@
       "conversionRate": 4.33,
       "rankChange": 0,
       "rankChangeViews": 0,
-      "rankChangeConversion": -1,
+      "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 3539,
+      "viewsGrowth7d": 3106,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1199,7 +1199,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 4535,
+      "viewsGrowth7d": 4324,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1214,7 +1214,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 11766,
+      "viewsGrowth7d": 10668,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1224,13 +1224,13 @@
       "subscribers": 15400,
       "views": 43017,
       "conversionRate": 358.0,
-      "rankChange": 1,
+      "rankChange": 0,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": -13947,
-      "conversionRateChange7d": 87.65
+      "viewsGrowth7d": -14190,
+      "conversionRateChange7d": 88.8
     },
     {
       "rank": 83,
@@ -1239,12 +1239,12 @@
       "subscribers": 15400,
       "views": 4212543,
       "conversionRate": 3.66,
-      "rankChange": -1,
+      "rankChange": 0,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 10188,
+      "viewsGrowth7d": 9587,
       "conversionRateChange7d": 0.0
     },
     {
@@ -1259,7 +1259,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 14379,
+      "viewsGrowth7d": 13281,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1274,7 +1274,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 17273,
+      "viewsGrowth7d": 16212,
       "conversionRateChange7d": -0.02
     },
     {
@@ -1289,8 +1289,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 7460,
-      "conversionRateChange7d": -0.02
+      "viewsGrowth7d": 6546,
+      "conversionRateChange7d": -0.01
     },
     {
       "rank": 87,
@@ -1304,23 +1304,23 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 13601,
+      "viewsGrowth7d": 9219,
       "conversionRateChange7d": -0.01
     },
     {
       "rank": 88,
-      "name": "DREAMCHURCH",
-      "channelId": "UCm5j0XT6NKD8-GHSDhrWOQw",
+      "name": "높은뜻푸른교회",
+      "channelId": "UCaQGk2guxAG3VxsNbv77w2Q",
       "subscribers": 14300,
-      "views": 4514983,
-      "conversionRate": 3.17,
+      "views": 2077803,
+      "conversionRate": 6.88,
       "rankChange": 2,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 2353,
-      "conversionRateChange7d": 0.0
+      "viewsGrowth7d": 7005,
+      "conversionRateChange7d": -0.03
     },
     {
       "rank": 89,
@@ -1329,28 +1329,28 @@
       "subscribers": 14300,
       "views": 7512907,
       "conversionRate": 1.9,
-      "rankChange": -1,
+      "rankChange": 0,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 12672,
+      "viewsGrowth7d": 11296,
       "conversionRateChange7d": -0.01
     },
     {
       "rank": 90,
-      "name": "높은뜻푸른교회",
-      "channelId": "UCaQGk2guxAG3VxsNbv77w2Q",
+      "name": "DREAMCHURCH",
+      "channelId": "UCm5j0XT6NKD8-GHSDhrWOQw",
       "subscribers": 14300,
-      "views": 2077803,
-      "conversionRate": 6.88,
-      "rankChange": -1,
+      "views": 4514983,
+      "conversionRate": 3.17,
+      "rankChange": -2,
       "rankChangeViews": 0,
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 8213,
-      "conversionRateChange7d": -0.03
+      "viewsGrowth7d": 2159,
+      "conversionRateChange7d": 0.0
     },
     {
       "rank": 91,
@@ -1364,7 +1364,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 7007,
+      "viewsGrowth7d": 5899,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1379,7 +1379,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 12041,
+      "viewsGrowth7d": 10423,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1394,8 +1394,8 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 3687,
-      "conversionRateChange7d": -0.02
+      "viewsGrowth7d": 3174,
+      "conversionRateChange7d": -0.01
     },
     {
       "rank": 94,
@@ -1409,7 +1409,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": -49622,
+      "viewsGrowth7d": -53309,
       "conversionRateChange7d": 0.01
     },
     {
@@ -1424,7 +1424,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 24954,
+      "viewsGrowth7d": 22587,
       "conversionRateChange7d": 0.0
     },
     {
@@ -1439,7 +1439,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 3665,
+      "viewsGrowth7d": 3059,
       "conversionRateChange7d": 0.0
     },
     {
@@ -1454,7 +1454,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 11761,
+      "viewsGrowth7d": 10499,
       "conversionRateChange7d": 0.0
     },
     {
@@ -1469,7 +1469,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 25447,
+      "viewsGrowth7d": 22757,
       "conversionRateChange7d": 0.0
     },
     {
@@ -1484,7 +1484,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 10796,
+      "viewsGrowth7d": 9378,
       "conversionRateChange7d": -0.01
     },
     {
@@ -1499,7 +1499,7 @@
       "rankChangeConversion": 0,
       "isNew": false,
       "subscribersGrowth7d": 0,
-      "viewsGrowth7d": 18847,
+      "viewsGrowth7d": 18063,
       "conversionRateChange7d": -0.04
     }
   ]
